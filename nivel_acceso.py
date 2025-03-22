@@ -1,10 +1,10 @@
 import datetime
 
 print("Bienvenido al programa")
-#Datos de los trabajadores 
+#Datos de los trabajadores donde se agregan: Nombre de ususario, nivel que pertence, contraseña, contraseña, fecha de cambio y si esta o no la targeta.
 usuario1 = "Brandon", 
 nivel1 = 1
-trabajadorN1_contraseña = 123, 
+trabajadorN1_contraseña = 123 
 fecha_cambio1 = datetime.datetime(2025, 2, 15)
 targeta1 = True
 
@@ -41,7 +41,7 @@ while True:
 #Revision de datos
         #Inisiar variables por defecto
 
-        if contraseña == trabajadorN1_contraseña and usuario1 == usuario: 
+        if contraseña == trabajadorN1_contraseña and usuario1 == usuario: #Si la contraseña y el usuario estan bien, los valores se cambian por la siguiente variables
                 nivel_acceso = nivel1
                 fecha_cambio=fecha_cambio1
                 targeta_activada = targeta1

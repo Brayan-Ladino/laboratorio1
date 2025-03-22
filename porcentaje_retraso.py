@@ -11,5 +11,3 @@ else:
         print("Error: Los dias asignados deben ser mayores que el 0")
         print("Volver a intentarlo")
 
-
-
