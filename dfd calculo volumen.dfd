@@ -1,0 +1,31 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+75
+"este programa ayuda a hallar el volumen de una esfera por medio del radio"
+4
+1
+75
+'este programa ayuda a hallar el volumen de una esfera por medio del radio'
+4
+1
+38
+'ingrese el radio de la esfera en cm:'
+5
+1
+1
+r
+6
+1
+7
+volumen
+24
+(4/3) * 3.14159* (r*r*r)
+4
+1
+45
+'el volumen de la pelota/esfera es: ',volumen
+1
