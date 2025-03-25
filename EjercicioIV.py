@@ -1,4 +1,4 @@
-# Programa Ejercicio IIII
+# Programa Ejercicio IV
 
 #Variables y Codigos de Descuento
 descuento = 0
