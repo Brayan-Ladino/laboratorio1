@@ -1,5 +1,5 @@
 #laboratorio segundo ejercicio
-##adrian Cañon
+#adrian Cañon
 #brayan Ladino
 #andres Ramirez
 #este programa permite saber la cantidad de material para la fabricacion globos y pelotas" # esto lo hace por medio del rapdio
