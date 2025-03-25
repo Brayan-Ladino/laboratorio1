@@ -1,4 +1,6 @@
-
+#adrian Cañon
+#brayan Ladino
+#andres Ramirez
 print("Bienvenido al programa")
 
 dias_asignados = int(input("Ingrese los dias asigandos para el desarrollo de las tareas: "))
