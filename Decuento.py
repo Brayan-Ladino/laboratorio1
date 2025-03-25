@@ -1,4 +1,7 @@
 # Programa Ejercicio IV
+#adrian Cañon
+#brayan Ladino
+#andres Ramirez
 
 #Variables y Codigos de Descuento
 descuento = 0
