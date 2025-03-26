@@ -1,7 +1,7 @@
 #adrian Cañon
 #brayan Ladino
 #andres Ramirez
-import datetime
+import datetime #Libreria para el manejo y calculo de fechas y horarios.
 
 print("Bienvenido al programa")
 #Datos de los trabajadores donde se agregan: Nombre de ususario, nivel que pertence, contraseña, contraseña, fecha de cambio y si esta o no la targeta.
